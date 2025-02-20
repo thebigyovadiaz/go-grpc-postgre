@@ -1,2 +1,2 @@
-# go-grpc-postgre
-Implement gRPC and Postgre with Go
+# go-grpc-postgresql
+Implement gRPC and Postgresql with Go
